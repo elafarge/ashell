@@ -1757,7 +1757,7 @@ dependencies = [
 [[package]]
 name = "hyprland"
 version = "0.4.0-beta.3"
-source = "git+https://github.com/hyprland-community/hyprland-rs?branch=master#c7037d4ce5c64e7f376a58802b806471792b0993"
+source = "git+https://github.com/elafarge/hyprland-rs?branch=fix%2Fworkspace-json-id#2cdda415fb394acd4f59e857026b8d6b5322adad"
 dependencies = [
  "async-stream",
  "chardetng",
@@ -1776,7 +1776,7 @@ dependencies = [
 [[package]]
 name = "hyprland-macros"
 version = "0.4.0-beta.3"
-source = "git+https://github.com/hyprland-community/hyprland-rs?branch=master#c7037d4ce5c64e7f376a58802b806471792b0993"
+source = "git+https://github.com/elafarge/hyprland-rs?branch=fix%2Fworkspace-json-id#2cdda415fb394acd4f59e857026b8d6b5322adad"
 dependencies = [
  "proc-macro2",
  "quote",

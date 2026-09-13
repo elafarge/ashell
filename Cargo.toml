@@ -44,7 +44,7 @@ chrono = { version = "0.4", default-features = false, features = [
   "serde",
   "unstable-locales",
 ] }
-hyprland = { git = "https://github.com/hyprland-community/hyprland-rs", branch = "master" }
+hyprland = { git = "https://github.com/elafarge/hyprland-rs", branch = "fix/workspace-json-id" }
 serde = { version = "1.0", default-features = false, features = [] }
 sysinfo = { version = "0.39", features = ["linux-netdevs"] }
 tokio = { version = "1", default-features = false, features = ["net"] }
